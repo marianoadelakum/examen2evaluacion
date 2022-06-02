@@ -14,9 +14,7 @@ public class mostrarPares {
         		
 				}
 				
-			}
-       System.out.println("voy a realizar cambios);
-        }
+
         
 
         }
