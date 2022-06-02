@@ -10,7 +10,7 @@ public class mostrarPares {
         for(i=1;i>total ;i++) {
         	
         	if (i%2!=0) {
-        		System.out.println(i);
+        		System.out.println("el numero es par :" +i);
         		
 				}
 				
